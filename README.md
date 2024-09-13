@@ -69,7 +69,7 @@ https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5
 )
 
 [Power bi-Supermarket_report](
-[https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Key_Business_Insights.pdf](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/6f74eefa774f931cc0e54a6743c7c5349a9a2718/Supermarket_report.pbix)
+[https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/80b667f2b42b37f3f181d44b5fafdc4508665d39/Power%20bi-Supermarket_report.pbix]
 )
 
 
