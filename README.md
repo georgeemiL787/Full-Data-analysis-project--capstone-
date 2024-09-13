@@ -9,6 +9,7 @@ This project involves the analysis of supermarket sales data from three branches
 1. **Supermarket_report.pbix** - Power BI report containing visualizations and insights derived from the supermarket sales data.
 2. **Data Wrangling Report.pdf** - Detailed report on the data wrangling process, including data cleaning and preparation techniques.
 3. **Key_Business_Insights.pdf** - Business insights report containing key findings, trends, and recommendations based on the analysis of sales data.
+4. **capstone_project_wrangling.ipynb** - Python notebook used for data wrangling, including data cleaning and transformation steps.
 
 ---
 
@@ -39,7 +40,7 @@ This project involves the analysis of supermarket sales data from three branches
   - Standardized the `Time` column and corrected customer type misspellings.
   - Fixed other data type inconsistencies for accurate analysis.
 
-*For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Data%20Wrangling%20Report.pdf)
+For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Data%20Wrangling%20Report.pdf)
 
 ---
 
@@ -64,12 +65,12 @@ The analysis highlights several trends and patterns across various dimensions:
 - Sales peak at specific times: 11 AM, 3 PM, and 7 PM for Food and Beverages.
 - January had the highest sales of the past three months, followed by March and February.
 
-*For more insights and trends, [Key_Business_Insights report](
+For more insights and trends, [Key_Business_Insights report](
 https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Key_Business_Insights.pdf
 )
 
-[Power bi-Supermarket_report](
-[https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Key_Business_Insights.pdf](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/6f74eefa774f931cc0e54a6743c7c5349a9a2718/Supermarket_report.pbix)
+And for thee visual report, [Power bi-Supermarket_report](
+https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/80b667f2b42b37f3f181d44b5fafdc4508665d39/Power%20bi-Supermarket_report.pbix
 )
 
 
@@ -94,6 +95,4 @@ https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5
 This analysis offers a comprehensive understanding of customer preferences and sales performance across various product categories. By implementing the suggested marketing strategies and optimizing sales processes, the supermarket can enhance customer satisfaction, increase revenue, and improve overall business performance.
 
 ---
-
-### Contact
-For further information about this project, please contact **George Emil Sadek** or refer to the provided reports.
+This file conderd as a summery for the work we done for more details check the documentation and thanks.
