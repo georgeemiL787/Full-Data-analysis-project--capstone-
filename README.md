@@ -95,4 +95,4 @@ https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/80b6
 This analysis offers a comprehensive understanding of customer preferences and sales performance across various product categories. By implementing the suggested marketing strategies and optimizing sales processes, the supermarket can enhance customer satisfaction, increase revenue, and improve overall business performance.
 
 ---
-This file conderd as a summery for the work we done and thanks.
+This file conderd as a summery for the work we done for more details check the documentation and thanks.
