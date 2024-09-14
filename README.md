@@ -70,7 +70,7 @@ https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/7c3f
 )
 
 And for thee visual report, [Power bi-Supermarket_report](
-https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/80b667f2b42b37f3f181d44b5fafdc4508665d39/Power%20bi-Supermarket_report.pbix
+https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/8709d69a34dbf8a7613d3d0595c543e3e186a8a6/Power%20bi-Supermarket_report.pbix
 )
 
 
