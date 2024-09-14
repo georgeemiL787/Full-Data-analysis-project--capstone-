@@ -66,7 +66,7 @@ The analysis highlights several trends and patterns across various dimensions:
 - January had the highest sales of the past three months, followed by March and February.
 
 For more insights and trends, [Key_Business_Insights report](
-https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Key_Business_Insights.pdf
+https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/7c3f759a55f855d921e5f30b28c00ff97a376de1/Key_Business_Insights.pdf
 )
 
 And for thee visual report, [Power bi-Supermarket_report](
