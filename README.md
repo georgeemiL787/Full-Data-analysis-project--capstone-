@@ -40,7 +40,7 @@ This project involves the analysis of supermarket sales data from three branches
   - Standardized the `Time` column and corrected customer type misspellings.
   - Fixed other data type inconsistencies for accurate analysis.
 
-For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Data%20Wrangling%20Report.pdf)
+For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/43344b5f257579fc2f6b1fdbd7f3331b00326a8e/Data%20Wrangling%20Report.pdf)
 
 ---
 
