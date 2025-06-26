@@ -40,7 +40,7 @@ This project involves the analysis of supermarket sales data from three branches
   - Standardized the `Time` column and corrected customer type misspellings.
   - Fixed other data type inconsistencies for accurate analysis.
 
-For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Data%20Wrangling%20Report.pdf)
+For detailed data wrangling steps, [Data Wrangling Report](https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/43344b5f257579fc2f6b1fdbd7f3331b00326a8e/Data%20Wrangling%20Report.pdf)
 
 ---
 
@@ -66,11 +66,11 @@ The analysis highlights several trends and patterns across various dimensions:
 - January had the highest sales of the past three months, followed by March and February.
 
 For more insights and trends, [Key_Business_Insights report](
-https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/9ed5f871bb52f8373c1dfb4a38b98d0d4247af45/Key_Business_Insights.pdf
+https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/7c3f759a55f855d921e5f30b28c00ff97a376de1/Key_Business_Insights.pdf
 )
 
 And for thee visual report, [Power bi-Supermarket_report](
-https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/80b667f2b42b37f3f181d44b5fafdc4508665d39/Power%20bi-Supermarket_report.pbix
+https://github.com/georgeemiL787/Full-Data-analysis-project--capstone-/blob/8709d69a34dbf8a7613d3d0595c543e3e186a8a6/Power%20bi-Supermarket_report.pbix
 )
 
 
